@@ -1,0 +1,14 @@
+﻿Build started 2015-03-22 15:17:22.
+     1>Project "C:\Users\Andrej\documents\visual studio 2013\Projects\ZadanieDomowe2_Adrian_Dworak\ZadanieDomowe2_Adrian_Dworak\ZadanieDomowe2_Adrian_Dworak.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Common Files\MSVC\freeglut\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\andrej\documents\visual studio 2013\projects\zadaniedomowe2_adrian_dworak\zadaniedomowe2_adrian_dworak\source.cpp(15): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andrej\documents\visual studio 2013\Projects\ZadanieDomowe2_Adrian_Dworak\Debug\ZadanieDomowe2_Adrian_Dworak.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Common Files\MSVC\freeglut\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Andrej\documents\visual studio 2013\Projects\ZadanieDomowe2_Adrian_Dworak\Debug\ZadanieDomowe2_Adrian_Dworak.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andrej\documents\visual studio 2013\Projects\ZadanieDomowe2_Adrian_Dworak\Debug\ZadanieDomowe2_Adrian_Dworak.lib" /MACHINE:X86 Debug\Source.obj
+         ZadanieDomowe2_Adrian_Dworak.vcxproj -> C:\Users\Andrej\documents\visual studio 2013\Projects\ZadanieDomowe2_Adrian_Dworak\Debug\ZadanieDomowe2_Adrian_Dworak.exe
+     1>Done Building Project "C:\Users\Andrej\documents\visual studio 2013\Projects\ZadanieDomowe2_Adrian_Dworak\ZadanieDomowe2_Adrian_Dworak\ZadanieDomowe2_Adrian_Dworak.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.16
